@@ -109,7 +109,7 @@ npm .js
 
 OR
 
-pnpm run launch
+pnpm run dev
 
 You should see output similar to this in your console:
 
