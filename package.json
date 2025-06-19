@@ -4,7 +4,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node server.js",
-    "launch": "nodemon server.js",
+    "dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
